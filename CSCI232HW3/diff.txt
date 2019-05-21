@@ -1,0 +1,4 @@
+but this line looks like this - will be output
+but this line looks different than that one - will be output
+This is the fourth line of the first input file - will be output
+This is the fourth line of the second input file - will be output
